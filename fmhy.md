@@ -56,9 +56,16 @@
 ***
 ***
 
+# [🧠 Educational](https://github.com/nbats/FMHY/wiki/%F0%9F%A7%A0-Educational)
+
+**Courses, Documentaries, Educational Tools, Language Learning**
+
+***
+***
+
 # [🔧 Tools](https://github.com/nbats/FMHY/wiki/%F0%9F%94%A7-Tools)
 
-**General Tools, Internet Tools, System Tools, Educational Tools**
+**General Tools, Internet Tools, System Tools**
 
 ***
 ***
