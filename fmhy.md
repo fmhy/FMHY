@@ -58,7 +58,7 @@
 
 # [🧠 Educational](https://github.com/nbats/FMHY/wiki/%F0%9F%A7%A0-Educational)
 
-**Courses, Documentaries, Educational Tools, Language Learning**
+**Courses, Documentaries, Books, Tools, Language Learning**
 
 ***
 ***
