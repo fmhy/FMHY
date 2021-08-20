@@ -30,7 +30,7 @@
 
 # [📗 Books / Comics / Manga](https://github.com/nbats/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
 
-**Calibre Libraries, Reading Sites, Comic Sites, Manga Sites**
+**Books, Comics, Magazines, Newspapers, Light Novels**
 
 ***
 ***
