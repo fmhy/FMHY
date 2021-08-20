@@ -72,7 +72,7 @@
 
 # [📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
-**Extensions, Indexes, Fonts, Free Stuff, Fun Sites, Piracy Discussion**
+**Extensions, Indexes, Fonts, Free Stuff, Fun Sites, Piracy Discussion, Health**
 
 ***
 ***
@@ -91,7 +91,7 @@
 ***
 ***
 
-# [🔒 Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
+# [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
 
 **Reddit & Discord Backups**
 
@@ -99,6 +99,11 @@
 ***
 
 **[Storage](https://github.com/nbats/FMHY/wiki/Storage)** - *Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub*
+
+***
+***
+
+**[Edit FMHY](https://rentry.co/FMHYedit)** - *Make changes to the FMHY Wiki*
 
 ***
 ***
