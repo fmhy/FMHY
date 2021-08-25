@@ -72,7 +72,7 @@
 
 # [📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
-**Extensions, Indexes, Fonts, Free Stuff, Fun Sites, Piracy Discussion, Health**
+**Extensions, Indexes, News, Free Stuff, Fun Sites, Piracy Discussion, Health**
 
 ***
 ***
