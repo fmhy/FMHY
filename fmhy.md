@@ -35,13 +35,6 @@
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
-
-**Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
-
-***
-***
-
 # [💾 Downloading](https://github.com/nbats/FMHY/wiki/%F0%9F%92%BE-Downloading)
 
 **Download Forums, Download Directories, Download Sites**
@@ -73,6 +66,20 @@
 # [📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Free Stuff, Fun Sites, Piracy Discussion, Health**
+
+***
+***
+
+# [📱 Android / iOS](https://github.com/nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+
+**Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
+
+***
+***
+
+#[🐧 Linux / MacOS](https://github.com/nbats/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+
+**Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
 ***
 ***
