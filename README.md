@@ -77,7 +77,7 @@
 ***
 ***
 
-#[🐧 Linux / MacOS](https://github.com/nbats/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / MacOS](https://github.com/nbats/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
 
 **Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
