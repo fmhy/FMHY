@@ -1,90 +1,90 @@
 𝑒𝓃𝒿𝑜𝓎 ♡
 
-# [📛 Adblock / Privacy / Antivirus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)
+# [📛 Adblock / Privacy / Antivirus](https://github.com/nbats/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
 
 ***
 ***
 
-# [📺 Movies / TV / Anime / Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video)
+# [📺 Movies / TV / Anime / Sports](https://github.com/nbats/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
 
 **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio)
+# [🎵 Music / Podcasts / Radio](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
 
 **Audio Streaming, Audio Downloading, Audio Torrenting**
 
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games)
+# [🎮 Gaming / Emulation](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
 
 **Download Games, Torrent Games, Emulators, Roms**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading)
+# [📗 Books / Comics / Manga](https://github.com/nbats/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
 
 **Books, Comics, Magazines, Newspapers, Light Novels**
 
 ***
 ***
 
-# [💾 Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)
+# [💾 Downloading](https://github.com/nbats/FMHY/wiki/%F0%9F%92%BE-Downloading)
 
 **Download Forums, Download Directories, Download Sites**
 
 ***
 ***
 
-# [🌀 Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)
+# [🌀 Torrenting](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%80-Torrenting)
 
 **Torrent Clients, Torrent Sites, Tracker Invites**
 
 ***
 ***
 
-# [🧠 Educational](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu)
+# [🧠 Educational](https://github.com/nbats/FMHY/wiki/%F0%9F%A7%A0-Educational)
 
 **Courses, Documentaries, Calculators, Language Learning, Tools**
 
 ***
 ***
 
-# [🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc)
+# [🔧 Tools](https://github.com/nbats/FMHY/wiki/%F0%9F%94%A7-Tools)
 
 **General Tools, Internet Tools, System Tools, Gaming Tools**
 
 ***
 ***
 
-# [📂 Miscellaneous](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc)
+# [📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Health, Cooking, Fun Sites**
 
 ***
 ***
 
-# [📱 Android / iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android)
+# [📱 Android / iOS](https://github.com/nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
 
 **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
 
 ***
 ***
 
-# [🐧 Linux / MacOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux)
+# [🐧 Linux / MacOS](https://github.com/nbats/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
 
 **Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng)
+# [🌏 Non-English](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%8F-Non-English)
 
 **International Piracy Sites** 
 
@@ -98,7 +98,7 @@
 ***
 ***
 
-# [🔒 Backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups)
+# [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
 
 **Reddit & Discord Backups**
 
