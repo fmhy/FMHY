@@ -91,7 +91,7 @@
 ***
 ***
 
-# [💬 Discord](https://discord.gg/vgnaeka)
+# [💬 Discord](https://discord.fmhy.tk/)
 
 **Chat Channel, Help Channel, Suggest Sites**
 
