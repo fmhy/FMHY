@@ -91,6 +91,13 @@
 ***
 ***
 
+#[🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
+
+**Beginners Guide to Piracy**
+
+***
+***
+
 # [💬 Discord](https://discord.fmhy.tk/)
 
 **Chat Channel, Help Channel, Suggest Sites**
