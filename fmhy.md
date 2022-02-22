@@ -1,5 +1,3 @@
-𝑒𝓃𝒿𝑜𝓎 ♡
-
 # [📛 Adblock / Privacy / Antivirus](https://github.com/nbats/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
