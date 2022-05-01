@@ -89,7 +89,7 @@
 ***
 ***
 
-#[🔞 NSFW](https://saidit.net/s/freemediafuckyeah/wiki/index)
+# [🔞 NSFW](https://saidit.net/s/freemediafuckyeah/wiki/index)
 
 **Porn, Hentai, Games, Magazines, Tools**
 
