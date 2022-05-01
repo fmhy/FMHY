@@ -89,6 +89,13 @@
 ***
 ***
 
+#[🔞 NSFW](https://saidit.net/s/freemediafuckyeah/wiki/index)
+
+**Porn, Hentai, Games, Magazines, Tools**
+
+***
+***
+
 # [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
 
 **Beginners Guide to Piracy**
