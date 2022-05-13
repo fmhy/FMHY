@@ -105,7 +105,7 @@
 
 # [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
 
-**Reddit & Discord Backups**
+**Reddit & Revolt Backups**
 
 ***
 ***
