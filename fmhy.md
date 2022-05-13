@@ -96,16 +96,9 @@
 ***
 ***
 
-# [💬 Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)
-
-**Chat Channel, Help Channel, Suggest Sites**
-
-***
-***
-
 # [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
 
-**Reddit & Revolt Backups**
+**Reddit Backups**
 
 ***
 ***
