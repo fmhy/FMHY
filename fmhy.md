@@ -96,7 +96,7 @@
 ***
 ***
 
-# [💬 Discord](https://discord.fmhy.tk/)
+# [💬 Revolt](https://revolt.movies4discord.xyz/invite/GMs0de3D)
 
 **Chat Channel, Help Channel, Suggest Sites**
 
