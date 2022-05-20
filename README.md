@@ -103,7 +103,7 @@
 ***
 ***
 
-# [💬 Revolt](https://divolt.xyz/invite/AmTBkP3C)
+# [💬 Revolt](https://redd.it/uto5vw)
 
 **Chat, Get Help, Suggest Sites**
 
