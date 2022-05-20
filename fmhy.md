@@ -98,7 +98,14 @@
 
 # [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
 
-**Reddit Backups**
+**FMHY Backups**
+
+***
+***
+
+# [💬 Revolt](https://divolt.xyz/invite/AmTBkP3C)
+
+**Chat, Get Help, Suggest Sites**
 
 ***
 ***
