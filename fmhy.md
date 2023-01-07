@@ -115,6 +115,11 @@
 ***
 ***
 
+**[Search FMHY](https://rentry.co/FMHY-Search)** - Search the entire Wiki
+
+***
+***
+
 **[Edit FMHY](https://rentry.co/FMHYedit)** - Make changes to the FMHY Wiki
 
 ***
