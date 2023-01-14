@@ -126,3 +126,8 @@
 ***
 
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help us Discover New Sites
+
+***
+***
+
+**[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we feel should be avoided
