@@ -115,7 +115,7 @@
 ***
 ***
 
-**[Search FMHY](https://rentry.co/FMHY-Search)** - Search the entire Wiki
+**[Search FMHY](https://redd.it/105xraz)** - Search the entire Wiki
 
 ***
 ***
