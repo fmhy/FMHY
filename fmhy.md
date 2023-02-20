@@ -21,7 +21,7 @@
 
 # [🎮 Gaming / Emulation](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
 
-**Download Games, Torrent Games, Emulators, ROMs**
+**Download Sites, Repacks, Emulators, ROMs, Browser Games**
 
 ***
 ***
@@ -35,7 +35,7 @@
 
 # [💾 Downloading](https://github.com/nbats/FMHY/wiki/%F0%9F%92%BE-Downloading)
 
-**Download Forums, Download Directories, Download Sites**
+**Download Sites, Open Directories, Software Sites**
 
 ***
 ***
