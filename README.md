@@ -68,7 +68,7 @@
 ***
 ***
 
-#[🤖 Artificial Intelligence](https://github.com/nbats/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
+# [🤖 Artificial Intelligence](https://github.com/nbats/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
 
 **Chat Bots, Text Generators, Image Generators, ChatGPT Tools**
 
