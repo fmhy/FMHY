@@ -126,7 +126,7 @@
 
 # [🔞 NSFW](https://fmhy.pages.dev/nsfwpiracy/)
 
-**NSFW Sites, Hentai, Nofap**
+**NSFW Sites, Hentai, NoFap**
 
 ***
 ***
@@ -152,13 +152,6 @@
 ***
 ***
 
-# [🐭 Lemmy](https://lemmy.fmhy.ml/)
-
-**User-Created Communities**
-
-***
-***
-
 # [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 **FMHY Backups**
@@ -166,8 +159,8 @@
 ***
 ***
 
-**[Search FMHY](https://redd.it/105xraz)** - Search the entire Wiki
+**[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
 
-**[Edit FMHY](https://rentry.co/FMHYedit)** - Make changes to the FMHY Wiki
+**[Edit FMHY](https://rentry.co/FMHYedit)** - Make Changes to the Wiki
 
-**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help us discover new sites
+**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
