@@ -152,6 +152,13 @@
 ***
 ***
 
+# [🐭 Lemmy](https://lemmy.fmhy.net/)
+
+**User-Created Communities**
+
+***
+***
+
 # [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 **FMHY Backups**
