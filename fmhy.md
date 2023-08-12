@@ -103,23 +103,16 @@
 ***
 ***
 
+# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+
+**International Piracy Sites** 
+
+***
+***
+
 # [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Health, Food, Fun**
-
-***
-***
-
-# [🗃️ Storage](https://github.com/fmhy/FMHY/wiki/Storage) 
-
-**Wiki Storage Page**
-
-***
-***
-
-# [🔑 Base64](https://fmhy.pages.dev/base64/)
-
-**Encoded Links Page**
 
 ***
 ***
@@ -131,16 +124,30 @@
 ***
 ***
 
-# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
-
-**International Piracy Sites** 
-
-***
-***
-
 # [⚠️ Unsafe Sites](https://fmhy.pages.dev/unsafesites/)
 
 **Things we feel should be avoided**
+
+***
+***
+
+# [🔑 Base64](https://fmhy.pages.dev/base64/)
+
+**Encoded Links Page**
+
+***
+***
+
+# [🗃️ Storage](https://github.com/fmhy/FMHY/wiki/Storage) 
+
+**Wiki Storage Page**
+
+***
+***
+
+# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+
+**FMHY Backups**
 
 ***
 ***
@@ -155,13 +162,6 @@
 # [🐭 Lemmy](https://lemmy.fmhy.net/)
 
 **User-Created Communities**
-
-***
-***
-
-# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
-
-**FMHY Backups**
 
 ***
 ***
