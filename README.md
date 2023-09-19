@@ -159,7 +159,7 @@
 ***
 ***
 
-# [🐭 Lemmy](https://lemmy.dbzer0.com/)
+# [🐭 Lemmy](https://lemmy.dbzer0.com/c/freemediaheckyeah)
 
 **User-Created Communities**
 
