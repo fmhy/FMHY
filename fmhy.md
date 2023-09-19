@@ -159,7 +159,7 @@
 ***
 ***
 
-# [🐭 Lemmy](https://lemmy.fmhy.net/)
+# [🐭 Lemmy](https://lemmy.dbzer0.com/)
 
 **User-Created Communities**
 
