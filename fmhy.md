@@ -171,3 +171,14 @@
 **[Edit FMHY](https://rentry.co/FMHYedit)** - Make Changes to the Wiki
 
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
+
+***
+***
+
+**Emoji Legend:**
+
+🌐 - 3rd Party Indexes
+
+↪️ - Storage Page Links
+
+⭐ - Community Recommendations
