@@ -152,7 +152,7 @@
 ***
 ***
 
-# [💬 Divolt](https://redd.it/uto5vw)
+# [💬 Discord](https://redd.it/17f8msf)
 
 **Chat, Get Help, Suggest Sites**
 
