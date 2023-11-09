@@ -159,13 +159,6 @@
 ***
 ***
 
-# [🐭 Lemmy](https://lemmy.dbzer0.com/c/freemediaheckyeah)
-
-**User-Created Communities**
-
-***
-***
-
 **[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
 
 **[Edit FMHY](https://rentry.co/FMHYedit)** - Make Changes to the Wiki
