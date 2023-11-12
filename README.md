@@ -1,3 +1,5 @@
+**Check out the [NEW Site](https://redd.it/17toqpa)!**
+
 # [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
 
 **Beginners Guide to Piracy**
