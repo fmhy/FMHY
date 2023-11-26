@@ -75,20 +75,6 @@
 ***
 ***
 
-# [📷 Image Tools](https://github.com/fmhy/FMHYedit/blob/main/img-tools.md)
-
-**Image Editing, Photography, Wallpapers** 
-
-***
-***
-
-# [👨‍💻 Developer Tools](https://github.com/fmhy/FMHYedit/blob/main/DEVTools.md)
-
-**Dev Lessons, Programming Resources, Code Editors**
-
-***
-***
-
 # [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
 
 **Apps, Jailbreaking, Android Emulators**
