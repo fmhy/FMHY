@@ -68,9 +68,9 @@
 ***
 ***
 
-# [🔧 Tools](https://github.com/nbats/FMHY/wiki/%F0%9F%94%A7-Tools)
+# [🔧 Tools](https://github.com/fmhy/FMHYedit/blob/main/Tools-Index.md)
 
-**General Tools, Internet Tools, System Tools**
+**Internet Tools, System Tools, Audio Tools, Video Tools**
 
 ***
 ***
