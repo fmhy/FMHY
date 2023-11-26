@@ -68,7 +68,7 @@
 ***
 ***
 
-# [🔧 Tools](https://github.com/fmhy/FMHYedit/blob/main/Tools-Index.md)
+# [🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)
 
 **Internet Tools, System Tools, Audio Tools, Video Tools**
 
