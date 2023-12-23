@@ -103,34 +103,6 @@
 ***
 ***
 
-# [🔞 NSFW](https://fmhy.pages.dev/nsfwpiracy/)
-
-**NSFW Sites, Hentai, NoFap**
-
-***
-***
-
-# [⚠️ Unsafe Sites](https://fmhy.pages.dev/unsafesites/)
-
-**Things we feel should be avoided**
-
-***
-***
-
-# [🔑 Base64](https://fmhy.pages.dev/base64/)
-
-**Encoded Links Page**
-
-***
-***
-
-# [🗃️ Storage](https://github.com/fmhy/FMHY/wiki/Storage) 
-
-**Wiki Storage Page**
-
-***
-***
-
 # [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 **FMHY Backups**
@@ -141,6 +113,11 @@
 # [💬 Discord](https://redd.it/17f8msf)
 
 **Chat, Get Help, Suggest Sites**
+
+***
+***
+
+# [More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
 
 ***
 ***
