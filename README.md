@@ -138,3 +138,7 @@
 ↪️ - Storage Page Links
 
 ⭐ - Community Recommendations
+
+***
+
+[Made with ❤️](https://github.com/fmhy/FMHYedit/blob/main/feedback.md)
