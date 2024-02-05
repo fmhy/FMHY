@@ -117,7 +117,7 @@
 ***
 ***
 
-# [More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
+# [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
 
 ***
 ***
@@ -141,4 +141,4 @@
 
 ***
 
-[Made with ❤️](https://github.com/fmhy/FMHYedit/blob/main/feedback.md)
+[made with ❤️](https://github.com/fmhy/FMHYedit/blob/main/feedback.md)
