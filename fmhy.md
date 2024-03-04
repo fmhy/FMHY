@@ -126,6 +126,8 @@
 
 **[Edit FMHY](https://rentry.co/FMHYedit)** - Make Changes to the Wiki
 
+**[FMHY Social](https://social.fmhy.net/)** - Official Fediverse Instance
+
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
 
 ***
