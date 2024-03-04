@@ -122,11 +122,11 @@
 ***
 ***
 
+**[Fediverse Account](https://social.fmhy.net/@fmhy)** - Official Fediverse Account
+
 **[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
 
 **[Edit FMHY](https://rentry.co/FMHYedit)** - Make Changes to the Wiki
-
-**[FMHY Social](https://social.fmhy.net/@fmhy)** - Official Fediverse Instance
 
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
 
