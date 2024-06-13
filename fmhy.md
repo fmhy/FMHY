@@ -117,6 +117,13 @@
 ***
 ***
 
+# [📑 Forum](https://feedback.fmhy.net/)
+
+**Suggestions, Polls, Discussion**
+
+***
+***
+
 # [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
 
 ***
