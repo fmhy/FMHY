@@ -117,9 +117,9 @@
 ***
 ***
 
-# [📑 Forum](https://feedback.fmhy.net/)
+# [📑 Feedback](https://feedback.fmhy.net/)
 
-**Suggestions, Polls, Discussion**
+**Feedback Forum**
 
 ***
 ***
