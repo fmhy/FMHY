@@ -117,19 +117,10 @@
 ***
 ***
 
-# [📑 Feedback](https://feedback.fmhy.net/)
-
-**Feedback Forum**
-
-***
-***
-
 # [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
 
 ***
 ***
-
-**[Fediverse Account](https://social.fmhy.net/@fmhy)** - Official Fediverse Account
 
 **[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
 
