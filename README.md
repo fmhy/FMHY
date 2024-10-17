@@ -124,7 +124,7 @@
 
 **[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
 
-**[Edit FMHY](https://fmhy.net/other/contributing)** / [2](https://github.com/fmhy/FMHYedit/blob/main/CONTRIBUTING.md) - Make Changes to the Wiki
+**[Edit FMHY](https://fmhy.net/other/contributing)** - Make Changes to the Wiki
 
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
 
@@ -141,4 +141,4 @@
 
 ***
 
-[made with ❤️](https://github.com/fmhy/FMHYedit/blob/main/feedback.md)
+[made with ❤️](https://fmhy.net/feedback)
