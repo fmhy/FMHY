@@ -110,7 +110,7 @@
 ***
 ***
 
-# [💬 Discord](https://redd.it/17f8msf)
+# [💬 Discord](https://rentry.co/fmhy-invite)
 
 **Chat, Get Help, Suggest Sites**
 
