@@ -7,7 +7,7 @@
 
 # [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
-**Adblocking, Privacy, VPN's, Proxies, Antivirus**
+**Adblocking, Privacy, VPNs, Proxies, Antivirus**
 
 ***
 ***
