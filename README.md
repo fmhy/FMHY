@@ -82,7 +82,7 @@
 ***
 ***
 
-# [🐧 Linux / MacOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
 
 **Apps, Software Sites, Gaming**
 
