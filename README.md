@@ -133,6 +133,8 @@
 
 **[Edit FMHY](https://fmhy.net/other/contributing)** - Make Changes to the Wiki
 
+**[Selfhost FMHY](https://fmhy.net/other/selfhosting)** - FMHY Selfhosting Guide
+
 **[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
 
 ***
