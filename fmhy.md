@@ -103,13 +103,6 @@
 ***
 ***
 
-# [ℹ️ FMHY Guides](https://guides.fmhy.lol/)
-
-**All the guides in FMHY**
-
-***
-***
-
 # [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 **FMHY Backups**
