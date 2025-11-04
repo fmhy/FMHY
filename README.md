@@ -2,6 +2,12 @@
 
 **Beginners Guide to Piracy**
 
+👉 **도티청기백기: [bluewhiteflag.org] <a href="https://bluewhiteflag.org" title="도티 청기백기">도티 청기백기</a> **
+
+👉 **도티청기백기: [bluewhiteflag.org] <a href="https://bluewhiteflag.org" title="도티 청기백기">도티 청기백기</a> **
+
+👉 **도티청기백기: [bluewhiteflag.org] <a href="https://bluewhiteflag.org" title="도티 청기백기">도티 청기백기</a> **
+
 ***
 ***
 
