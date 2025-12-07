@@ -103,7 +103,7 @@
 ***
 ***
 
-#[📑 Changelog](https://changes.fmhy.bid/)
+# [📑 Changelog](https://changes.fmhy.bid/)
 
 **Recent Additions and Updates**
 
