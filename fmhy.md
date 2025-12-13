@@ -103,7 +103,7 @@
 ***
 ***
 
-# [📑 Changelog](https://changes.fmhy.bid/)
+# [📑 Changelog](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1pl8vl0/fmhy_changelog/)
 
 **Recent Additions and Updates**
 
