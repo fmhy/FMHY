@@ -17,6 +17,38 @@
 **Chat Bots, Text Generators, Image Generators, Chatbot Tools**
 
 ***
+
+***
+
+# 🤖 Embodied AI and Robotics
+
+**Embodied AI and robotics research navigation**
+
+- [realdp-research](https://realdp-research.github.io)
+
+***
+
+***
+
+# 🤖 AI Safety
+
+**AI safety resources**
+
+- [aisafety.com](https://aisafety.com)
+- [aialignmentforum](https://aialignmentforum.com)
+
+***
+
+***
+
+# 🤖 Chinese AI Index
+
+**Free Chinese AI index for blogging**
+
+- [hyper.ai](https://hyper.ai)
+
+***
+
 ***
 
 # [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
