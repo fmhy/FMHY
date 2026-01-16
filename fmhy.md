@@ -1,4 +1,4 @@
-# [📚  Beginners Guide](https://rentry.org/Piracy-BG)
+# [📚  Beginners Guide](https://fmhy.net/beginners-guide)
 
 **A Guide for Beginners + FAQs**
 
