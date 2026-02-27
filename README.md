@@ -26,7 +26,7 @@
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/Music---Podcasts---Radio)
+# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/Music)
 
 **Stream Audio, Download Audio, Torrent Audio**
 
