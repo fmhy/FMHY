@@ -5,63 +5,63 @@
 ***
 ***
 
-# [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
+# [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/Adblock)
 
 **Adblocking, Privacy, VPNs, Proxies, Antivirus**
 
 ***
 ***
 
-# [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
+# [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/Artificial-Intelligence)
 
 **Chat Bots, Text Generators, Image Generators, Chatbot Tools**
 
 ***
 ***
 
-# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
+# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/Streaming)
 
 **Stream Videos, Download Videos, Torrent Videos**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/Music---Podcasts---Radio)
 
 **Stream Audio, Download Audio, Torrent Audio**
 
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
+# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/Gaming)
 
 **Download Games, ROMs, Gaming Tools**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
+# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/Reading)
 
 **Books, Comics, Magazines, Newspapers**
 
 ***
 ***
 
-# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading)
+# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/Downloading)
 
 **Download Sites, Software Sites, Open Directories**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/Torrenting)
 
 **Torrent Clients, Torrent Sites, Trackers**
 
 ***
 ***
 
-# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational)
+# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/Educational)
 
 **Courses, Documentaries, Learning Resources**
 
@@ -75,28 +75,28 @@
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/Mobile)
 
 **Apps, Jailbreaking, Android Emulators**
 
 ***
 ***
 
-# [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/Linux)
 
 **Apps, Software Sites, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 
 **International Piracy Sites** 
 
 ***
 ***
 
-# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
+# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/Misc)
 
 **Extensions, Indexes, News, Health, Food, Fun**
 
