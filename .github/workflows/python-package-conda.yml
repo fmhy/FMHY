@@ -1,0 +1,61 @@
+name: Clone FMHY Repositories
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clone_and_mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Clone and push repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPOS=(
+            "FMHY"
+            "edit"
+            ".github"
+            "dupe-checker"
+            "bot"
+            "fmhy.github.io"
+            "FMHYFilterlist"
+            "archive"
+            "bookmarks"
+            "FMHY-SafeGuard"
+            "resources"
+          )
+          for REPO in "${REPOS[@]}"; do
+            git clone --mirror https://github.com/FMHY/$REPO.git
+            cd $REPO.git
+            git remote set-url origin https://github.com/Ph34k/$REPO.git
+            git push --mirror
+            cd ..
+            rm -rf $REPO.git
+          done
+
+      - name: Set repositories to private
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPOS=(
+            "FMHY"
+            "edit"
+            ".github"
+            "dupe-checker"
+            "bot"
+            "fmhy.github.io"
+            "FMHYFilterlist"
+            "archive"
+            "bookmarks"
+            "FMHY-SafeGuard"
+            "resources"
+          )
+          for REPO in "${REPOS[@]}"; do
+            curl -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              -d '{"private": true}' \
+              https://api.github.com/repos/Ph34k/$REPO
+          done
