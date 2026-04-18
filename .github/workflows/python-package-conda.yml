@@ -1,18 +1,19 @@
-name: Clone FMHY Repositories
+name: Clone All FMHY Repositories
 
 on:
   workflow_dispatch:
 
 jobs:
-  clone_and_mirror:
+  clone_and_push:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout FMHY Repository
         uses: actions/checkout@v2
+        with:
+          repository: FMHY
+          path: fmhy
 
-      - name: Clone and push repositories
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Clone all repositories
         run: |
           REPOS=(
             "FMHY"
@@ -33,29 +34,19 @@ jobs:
             git remote set-url origin https://github.com/Ph34k/$REPO.git
             git push --mirror
             cd ..
-            rm -rf $REPO.git
           done
+          git clone --mirror https://github.com/FMHY/FMHWiki.wiki.git
+          cd FMHWiki.wiki.git
+          git remote set-url origin https://github.com/Ph34k/FMHWiki.wiki.git
+          git push --mirror
+          cd ..
 
       - name: Set repositories to private
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          REPOS=(
-            "FMHY"
-            "edit"
-            ".github"
-            "dupe-checker"
-            "bot"
-            "fmhy.github.io"
-            "FMHYFilterlist"
-            "archive"
-            "bookmarks"
-            "FMHY-SafeGuard"
-            "resources"
-          )
+          TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          REPOS=("FMHY" "edit" ".github" "dupe-checker" "bot" "fmhy.github.io" "FMHYFilterlist" "archive" "bookmarks" "FMHY-SafeGuard" "resources" "FMHWiki.wiki")
           for REPO in "${REPOS[@]}"; do
-            curl -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              -d '{"private": true}' \
-              https://api.github.com/repos/Ph34k/$REPO
+            curl -X PATCH -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/Ph34k/$REPO \
+            -d '{"private": true}'
           done
