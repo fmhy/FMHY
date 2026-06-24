@@ -90,7 +90,8 @@
 ***
 
 # [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/Non-Eng)
-
+mangaheya- manga
+mangaheya.net
 **International Piracy Sites** 
 
 ***
